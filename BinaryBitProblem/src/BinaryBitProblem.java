@@ -1,5 +1,6 @@
 public class BinaryBitProblem {
 
+    //Test
     public static void main(String... args) {
         int[] output = countBits(2);
         for (int a : output){
